@@ -6,7 +6,7 @@ declare_id!("FJJpctqWehRo9GPggYwwjjJQunJe2kcv4JUQmDwbvaZx");
 pub mod fluxbeam_crate {
     use super::*;
 
-    pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
+    pub fn initialize(_ctx: Context<Initialize>) -> Result<()> {
         Ok(())
     }
 }
