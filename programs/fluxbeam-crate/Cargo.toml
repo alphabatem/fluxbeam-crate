@@ -21,3 +21,4 @@ anchor-lang = { version = "0.28.0", features = ["init-if-needed"] }
 anchor-spl = { version = "0.28.0", features = ["metadata"] }
 solana-program = "=1.14.20"
 winnow="=0.4.1"
+ahash = "=0.8.6"
