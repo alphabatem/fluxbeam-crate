@@ -3,6 +3,7 @@ name = "fluxbeam-crate"
 version = "0.1.0"
 description = "Created with Anchor"
 edition = "2021"
+license = "MIT"
 repository = "https://github.com/alphabatem/fluxbeam-crate"
 
 [lib]
